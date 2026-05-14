@@ -356,7 +356,7 @@
     {
         "id": "1121",
         "name": "Star Pravah",
-        "mpd": "https://yowaimo.in/LightBheemGeoTv/1121.mpd?__hdnea__=st=1778772584~exp=1778794184~acl=/bpk-tv/Star_Pravah_BTS/WDVLive/*~hmac=97a5d864469b34c8293fa9545116baad0cf1e6791a492db2f993087261639ee0",
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_BTS/WDVLive/index.mpd?__hdnea__=st=1778772584~exp=1778794184~acl=/bpk-tv/Star_Pravah_BTS/WDVLive/*~hmac=97a5d864469b34c8293fa9545116baad0cf1e6791a492db2f993087261639ee0",
         "cookie": "__hdnea__=st=1778772584~exp=1778794184~acl=/bpk-tv/Star_Pravah_BTS/WDVLive/*~hmac=97a5d864469b34c8293fa9545116baad0cf1e6791a492db2f993087261639ee0"
     },
     {
@@ -494,7 +494,7 @@
     {
         "id": "1130",
         "name": "Star Vijay",
-        "mpd": "https://yowaimo.in/LightBheemGeoTv/1130.mpd?__hdnea__=st=1778772718~exp=1778794318~acl=/bpk-tv/Star_Vijay_BTS/WDVLive/*~hmac=d9a048eb3abba429d01b9ce00a26af1eca7a74e8ebfd719911cc484590fee73d",
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Vijay_BTS/WDVLive/index.mpd?__hdnea__=st=1778772718~exp=1778794318~acl=/bpk-tv/Star_Vijay_BTS/WDVLive/*~hmac=d9a048eb3abba429d01b9ce00a26af1eca7a74e8ebfd719911cc484590fee73d",
         "cookie": "__hdnea__=st=1778772718~exp=1778794318~acl=/bpk-tv/Star_Vijay_BTS/WDVLive/*~hmac=d9a048eb3abba429d01b9ce00a26af1eca7a74e8ebfd719911cc484590fee73d"
     },
     {
@@ -518,19 +518,19 @@
     {
         "id": "317",
         "name": "Star Jalsha HD",
-        "mpd": "https://yowaimo.in/LightBheemGeoTv/317.mpd?__hdnea__=st=1778772732~exp=1778794332~acl=/bpk-tv/Star_Jalsha_HD_BTS/WDVLive/*~hmac=c28ff1abfb140adea5491518510b6d4f1e37b67a9f26730bd502bd69b53e0a99",
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Jalsha_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1778772732~exp=1778794332~acl=/bpk-tv/Star_Jalsha_HD_BTS/WDVLive/*~hmac=c28ff1abfb140adea5491518510b6d4f1e37b67a9f26730bd502bd69b53e0a99",
         "cookie": "__hdnea__=st=1778772732~exp=1778794332~acl=/bpk-tv/Star_Jalsha_HD_BTS/WDVLive/*~hmac=c28ff1abfb140adea5491518510b6d4f1e37b67a9f26730bd502bd69b53e0a99"
     },
     {
         "id": "1126",
         "name": "Star Jalsha",
-        "mpd": "https://yowaimo.in/LightBheemGeoTv/1126.mpd?__hdnea__=st=1778772736~exp=1778794336~acl=/bpk-tv/Star_Jalsha_BTS/WDVLive/*~hmac=e57e1b2793295a73e8c09b270020b93621ee7c225681d8365a8ac7c1fb7f9bba",
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Jalsha_BTS/WDVLive/index.mpd?__hdnea__=st=1778772736~exp=1778794336~acl=/bpk-tv/Star_Jalsha_BTS/WDVLive/*~hmac=e57e1b2793295a73e8c09b270020b93621ee7c225681d8365a8ac7c1fb7f9bba",
         "cookie": "__hdnea__=st=1778772736~exp=1778794336~acl=/bpk-tv/Star_Jalsha_BTS/WDVLive/*~hmac=e57e1b2793295a73e8c09b270020b93621ee7c225681d8365a8ac7c1fb7f9bba"
     },
     {
         "id": "1977",
         "name": "Zee Bangla HD",
-        "mpd": "https://yowaimo.in/LightBheemGeoTv/1977.mpd?__hdnea__=st=1778772741~exp=1778794341~acl=/bpk-tv/ZeeBanglaHD_BTS/WDVLive/*~hmac=1f28ffd045f253e226e86c90aa7222dd77b258e91eeff118990d3eeba2d1a943",
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBanglaHD_BTS/WDVLive/index.mpd?__hdnea__=st=1778772741~exp=1778794341~acl=/bpk-tv/ZeeBanglaHD_BTS/WDVLive/*~hmac=1f28ffd045f253e226e86c90aa7222dd77b258e91eeff118990d3eeba2d1a943",
         "cookie": "__hdnea__=st=1778772741~exp=1778794341~acl=/bpk-tv/ZeeBanglaHD_BTS/WDVLive/*~hmac=1f28ffd045f253e226e86c90aa7222dd77b258e91eeff118990d3eeba2d1a943"
     },
     {
@@ -562,12 +562,6 @@
         "name": "Jalsha Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jalsha_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1778772750~exp=1778794350~acl=/bpk-tv/Jalsha_Movies_BTS/WDVLive/*~hmac=4495bee56eb57028a6ed000093cb9f6d9a932188916dc0de0fba6f1ee92426fd",
         "cookie": "__hdnea__=st=1778772750~exp=1778794350~acl=/bpk-tv/Jalsha_Movies_BTS/WDVLive/*~hmac=4495bee56eb57028a6ed000093cb9f6d9a932188916dc0de0fba6f1ee92426fd"
-    },
-    {
-        "id": "685",
-        "name": "Zee Bangla Sonar",
-        "mpd": "https://yowaimo.in/LightBheemGeoTv/685.mpd",
-        "cookie": ""
     },
     {
         "id": "3267",
