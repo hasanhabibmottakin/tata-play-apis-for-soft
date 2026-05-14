@@ -23,7 +23,7 @@ jobs:
 
       - env:
           ZIP_PASS: ${{ secrets.ZIP_PASSWORD }}
-        run: unzip -P "$ZIP_PASS" main.zip
+        run: 7z x "-p$ZIP_PASS" main.zip -y
           
       - run: python main.py
 
