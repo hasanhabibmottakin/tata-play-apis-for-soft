@@ -1,0 +1,35 @@
+name: Auto Update API
+
+on:
+  schedule:
+    - cron: '*/40 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - run: pip install requests
+
+      - env:
+          ZIP_PASS: ${{ secrets.ZIP_PASSWORD }}
+        run: unzip -P "$ZIP_PASS" main.zip
+          
+      - run: python main.py
+
+      - run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add api.json
+          git commit -m "Auto-update api.json" || echo "No changes to commit"
+          git push
