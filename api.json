@@ -632,8 +632,8 @@
     {
         "id": "756",
         "name": "Colors Bangla HD",
-        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Bengali_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1779259867~exp=1779281467~acl=/bpk-tv/Colors_Bengali_HD_BTS/WDVLive/*~hmac=afc1c49b6b6d40dcd143ccd78849afa3f868ad5192cbcd85b716e519b6f7bb75",
-        "cookie": "__hdnea__=st=1779259867~exp=1779281467~acl=/bpk-tv/Colors_Bengali_HD_BTS/WDVLive/*~hmac=afc1c49b6b6d40dcd143ccd78849afa3f868ad5192cbcd85b716e519b6f7bb75"
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Bengali_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1779256835~exp=1779278435~acl=/*~hmac=1606468323c0c79e7fd704150ba46a7f4d3dec595481fa19bfa66bf3d67dcc3c",
+        "cookie": "__hdnea__=st=1779256835~exp=1779278435~acl=/*~hmac=1606468323c0c79e7fd704150ba46a7f4d3dec595481fa19bfa66bf3d67dcc3c"
     },
     {
         "id": "757",
@@ -716,13 +716,25 @@
     {
         "id": "1657",
         "name": "Colors Bangla Cinema",
-        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Bangla_Cinema_BTS/WDVLive/index.mpd?__hdnea__=st=1778835977~exp=1778857577~acl=/bpk-tv/Colors_Bangla_Cinema_BTS/WDVLive/*~hmac=be57b4b7674a9b9eb80983fb8da2a4ac5bffb2c56617eca781ac8cdbafeca5b5",
-        "cookie": "__hdnea__=st=1778835977~exp=1778857577~acl=/bpk-tv/Colors_Bangla_Cinema_BTS/WDVLive/*~hmac=be57b4b7674a9b9eb80983fb8da2a4ac5bffb2c56617eca781ac8cdbafeca5b5"
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Bangla_Cinema_BTS/WDVLive/index.mpd?__hdnea__=st=1779259535~exp=1779281135~acl=/bpk-tv/Colors_Bangla_Cinema_BTS/WDVLive/*~hmac=5ed277580b6990a3d1ae8999b9f48b5c25a231dddb04726dbd61d1c2db7c836c",
+        "cookie": "__hdnea__=st=1779259535~exp=1779281135~acl=/bpk-tv/Colors_Bangla_Cinema_BTS/WDVLive/*~hmac=5ed277580b6990a3d1ae8999b9f48b5c25a231dddb04726dbd61d1c2db7c836c"
     },
     {
         "id": "1763",
         "name": "Colors Cineplex Bollywood",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsCineplexBollywood_BTS/WDVLive/index.mpd?__hdnea__=st=1778835975~exp=1778857575~acl=/bpk-tv/ColorsCineplexBollywood_BTS/WDVLive/*~hmac=bdde35d09d16de18ed1655baf1c7fe1d0b812ebd0440871aae93be903b3a9f25",
         "cookie": "__hdnea__=st=1778835975~exp=1778857575~acl=/bpk-tv/ColorsCineplexBollywood_BTS/WDVLive/*~hmac=bdde35d09d16de18ed1655baf1c7fe1d0b812ebd0440871aae93be903b3a9f25"
-    }
+    },
+    {
+        "id": "1341",
+        "name": "Nick Bangla",
+        "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Ben_MOB/WDVLive/index.mpd?__hdnea__=st=1779256835~exp=1779278435~acl=/*~hmac=1606468323c0c79e7fd704150ba46a7f4d3dec595481fa19bfa66bf3d67dcc3c",
+        "cookie": "__hdnea__=st=1779256835~exp=1779278435~acl=/*~hmac=1606468323c0c79e7fd704150ba46a7f4d3dec595481fa19bfa66bf3d67dcc3c"
+    },
+    {
+        "id": "1341",
+        "name": "Sony MAX1",
+        "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyMAX1_MOB/WDVLive/index.mpd?__hdnea__=st=1779264035~exp=1779285635~acl=/*~hmac=04003d7782a0ade75628bcad9742ffcdcec06357a677989ec96061d1cd66e69d",
+        "cookie": "__hdnea__=st=1779264035~exp=1779285635~acl=/*~hmac=04003d7782a0ade75628bcad9742ffcdcec06357a677989ec96061d1cd66e69d"
+    }  
 ]
